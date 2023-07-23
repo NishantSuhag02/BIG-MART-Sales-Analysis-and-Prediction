@@ -22,4 +22,4 @@ With the trained model, I accurately predicted future sales figures based on inp
 # Recommendations for Sales Optimization: 
 Using the model's insights, I provided data-driven recommendations to optimize sales strategies, including inventory management, product placement, and promotional campaigns. These recommendations aimed to boost overall revenue and enhance customer satisfaction.
 
-# By successfully implementing this project, I demonstrated proficiency in data analysis, predictive modeling, and the ability to extract meaningful business insights. The experience reinforced my skills in Python programming, data manipulation, and statistical analysis, and it showcased my capability to drive data-informed strategies to enhance business performance.
+By successfully implementing this project, I demonstrated proficiency in data analysis, predictive modeling, and the ability to extract meaningful business insights. The experience reinforced my skills in Python programming, data manipulation, and statistical analysis, and it showcased my capability to drive data-informed strategies to enhance business performance.
