@@ -1,4 +1,4 @@
-# BIG-MART-Sales-Analysis-and-Prediction
+# BIG MART Sales Analysis and Prediction
 
 # Project Description:
 In this data-driven project, I undertook the task of analyzing and predicting sales trends at Big Mart, a prominent retail chain. Leveraging the power of linear regression, I aimed to provide valuable insights and accurate forecasts to aid in strategic decision-making and optimization of sales performance.
