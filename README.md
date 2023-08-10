@@ -13,14 +13,18 @@ Employing advanced statistical techniques and data visualization, I conducted co
 **(1) Most purchased items are 'Fruits and Vegetables', 'Snack Food' and 'Canned' items.**
 ![image](https://github.com/NishantSuhag02/BIG-MART-Sales-Analysis-and-Prediction/assets/112072807/67cfbc73-2564-4a7f-a6c9-21f002cd5862)
 
+
 **(2) Mostly outlets are of 'Medium' size.**
 ![image](https://github.com/NishantSuhag02/BIG-MART-Sales-Analysis-and-Prediction/assets/112072807/d2670340-ce94-4618-952b-6b7e4ef479a4)
+
 
 **(3) Mostly outlets are situated in Tier-3 location.**
 ![image](https://github.com/NishantSuhag02/BIG-MART-Sales-Analysis-and-Prediction/assets/112072807/442eb0f8-0c75-4aad-bbe5-2389d94f41e3)
 
+
 **(4) Items MRP ranging between 150-200 have most 'Item Visibility'.**
 ![image](https://github.com/NishantSuhag02/BIG-MART-Sales-Analysis-and-Prediction/assets/112072807/255ecaea-4072-440c-8a7d-e2cb7c6a5685)
+
 
 **(5) SuperMarket Type3 outlet has the maximum calculated median of item_outlet_sales.** 
 ![image](https://github.com/NishantSuhag02/BIG-MART-Sales-Analysis-and-Prediction/assets/112072807/bde20a7e-6cfa-4332-bea4-188ba2e9027b)
